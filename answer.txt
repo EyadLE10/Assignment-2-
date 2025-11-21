@@ -1,0 +1,14 @@
+Q1) fork creat an new process so we will have two processes child and parent process and the child one will get 
+pid = 0 and the parent will get its postive number and in the prg each process prints a message to show who is the
+parent and who is the child.
+
+Q2) what is the job of the linker 
+it links many compiled files in one program and we can make a function in one of them and make the caller on aother
+one and link them to call it and it needs a libraries.
+
+Q3) what is the job of te loder 
+it prepares the program to run as it puts the prog into memory and load the libraries it needs and start the program 
+and if i want to show the lib uesd (ldd)
+
+Q4) what happened when chane in file and compile 
+the output will change and final program will change after using the linker   
