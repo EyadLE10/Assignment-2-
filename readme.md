@@ -7,8 +7,8 @@ linking multiple C files, using a loader, and building programs with a Makefile.
 ## Installation
 
 To build all programs, run:
-
 ```bash
+
 make
 
 This will create the executables:
@@ -18,7 +18,7 @@ fork
 output_program
 
 simple_p
-
+```
 ### Usage
 
 To run the programs:
