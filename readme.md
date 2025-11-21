@@ -8,7 +8,6 @@ linking multiple C files, using a loader, and building programs with a Makefile.
 
 To build all programs, run:
 ```bash
-
 make
 
 This will create the executables:
@@ -19,7 +18,7 @@ output_program
 
 simple_p
 ```
-### Usage
+## Usage
 
 To run the programs:
 
@@ -27,7 +26,7 @@ To run the programs:
 ./output_program
 ./simple_p
 
-#### Project Files
+## Project Files
 
 fork.c — program that uses fork().
 
@@ -39,7 +38,7 @@ Makefile — builds all programs.
 
 answers.txt — written answers.
 
-##### Requirements
+## Requirements
 
 Linux or WSL
 
@@ -47,6 +46,6 @@ gcc
 
 make
 
-###### License
+## License
 
 MIT License (see LICENSE file).
