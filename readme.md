@@ -21,11 +21,13 @@ simple_p
 ## Usage
 
 To run the programs:
+```bash
+./fork 
 
-./fork
 ./output_program
-./simple_p
 
+./simple_p
+```
 ## Project Files
 
 fork.c — program that uses fork().
